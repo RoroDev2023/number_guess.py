@@ -1,1 +1,1 @@
-# number_guess.py
+a number guessing program using python
